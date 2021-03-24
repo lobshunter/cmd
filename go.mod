@@ -1,4 +1,4 @@
-module github.com/lobshunter/test/courior/cmd
+module github.com/lobshunter/courier-cmd
 
 go 1.13
 
